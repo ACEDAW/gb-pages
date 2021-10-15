@@ -41,3 +41,5 @@ He tenido problemas que son los siguientes :
 
   ## Enlaces
 
+https://www.frontendmentor.io/solutions/html-css-js-W0gkDjzcZ
+https://acedaw.github.io/gb-pages/
